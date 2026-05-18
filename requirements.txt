@@ -1,0 +1,5 @@
+zhipuai
+python-dotenv
+PyPDF2
+sniffio
+streamlit
